@@ -51,6 +51,7 @@ Temporary Items
 /core
 /libraries
 /Release
+/.settings
 .cproject
 .project
 .sloeber.ino.cpp
