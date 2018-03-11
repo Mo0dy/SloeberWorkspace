@@ -46,12 +46,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-/.metadata
-/.settings
-/core
-/libraries
-/Release
-/.settings
+.metadata/
+.settings/
+core/
+libraries/
+Release/
+.settings/
 .cproject
 .project
 .sloeber.ino.cpp
