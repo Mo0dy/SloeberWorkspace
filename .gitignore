@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/.metadata
+/.settings
+/core
+/libraries
+/Release
+.cproject
+.project
+.sloeber.ino.cpp
